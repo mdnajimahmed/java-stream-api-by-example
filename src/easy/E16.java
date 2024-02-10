@@ -1,6 +1,5 @@
 package src.easy;
 
-import domain.Purchase;
 
 import java.util.Arrays;
 import java.util.Comparator;

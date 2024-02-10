@@ -1,4 +1,6 @@
-import domain.Purchase;
+package src;
+
+import src.domain.Purchase;
 
 import java.util.*;
 import java.util.function.BiConsumer;
